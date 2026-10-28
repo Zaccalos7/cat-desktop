@@ -1,5 +1,9 @@
 # 🐾 Cat Power — Guida Utente / User Guide / 用户指南 / ユーザーガイド
 
+<a href="https://buymeacoffee.com/zaccalos" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40">
+</a>
+
 [🇮🇹 Italiano](#-guida-utente-italiano) · [🇬🇧 English](#-user-guide-english) · [🇨🇳 简体中文](#-用户指南-简体中文) · [🇯🇵 日本語](#-ユーザーガイド-日本語)
 
 ---
@@ -181,3 +185,21 @@ Cat Power は、パソコンの画面にかわいいバーチャル子猫を連�
 * **誕生日のお祝い：** **わたしの1日 → 特別な日** に誕生日を登録しておくと、当日に猫がろうそく付きのケーキを運んできてくれます（クリックで火を消せます！）。1日を通して金の魚入りのプレゼントも届きます。
 * **小さな物語とプレゼント：** 合間にネズミを追いかけたり、子ガモを驚かせたりするほか、お花や葉っぱ、毛糸玉などの **小さなプレゼント** を口にくわえて持ってきてくれます。クリックして「ありがとう」を伝えましょう！
 * **おやすみモードと言語切替：** 集中したい時は **おやすみモード（通知オフ）** で猫を静かに寝かせたり、**猫をしばらく隠す** で一時的に画面から隠すことができます。言語は左上のメニューからいつでも切り替えられます。
+
+
+<img width="1307" height="947" alt="Screenshot from 2026-10-27 21-35-50" src="https://github.com/user-attachments/assets/b2e0c6d9-0ac9-445a-b395-4efadd0c325e" />
+
+<img width="1307" height="947" alt="Screenshot from 2026-10-27 21-37-28" src="https://github.com/user-attachments/assets/70887aaa-767b-4e60-8954-f7fd29614e7e" />
+
+<img width="1307" height="947" alt="Screenshot from 2026-10-27 21-37-09" src="https://github.com/user-attachments/assets/9e7e12cc-9ee5-4c91-9305-dc12f668590b" />
+
+<img width="1307" height="947" alt="Screenshot from 2026-10-27 21-37-50" src="https://github.com/user-attachments/assets/a229be68-b3ec-4ae2-9aa2-389f0860dab0" />
+
+<img width="1307" height="947" alt="Screenshot from 2026-10-27 21-38-02" src="https://github.com/user-attachments/assets/87b5168a-f5a8-49ae-886f-55602010b13c" />
+
+
+
+
+
+
+
